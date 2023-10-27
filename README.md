@@ -22,13 +22,13 @@ Aplikasi presensi mahasiswa/siswa kerja praktik (KP) di Diskominfo Kabupaten Ban
 
 ## Screenshots
 
-<img src="https://github.com/muhfauzidk/Flutter-Presensi/blob/main/screenshots/splash_screen.png" width="200"><img src="https://github.com/muhfauzidk/Flutter-Presensi/blob/main/screenshots/login_page.png" width="200"><img src="https://github.com/muhfauzidk/Flutter-Presensi/blob/main/screenshots/signup_page.png" width="200">
+<img src="https://github.com/muhfauzidk/Flutter-PresensiKP/blob/main/screenshots/splash_screen.png" width="200"><img src="https://github.com/muhfauzidk/Flutter-PresensiKP/blob/main/screenshots/login_page.png" width="200"><img src="https://github.com/muhfauzidk/Flutter-PresensiKP/blob/main/screenshots/signup_page.png" width="200">
 
 ### Dashboard
-<img src="https://github.com/muhfauzidk/Flutter-Presensi/blob/main/screenshots/dashboard_page.png" width="200"><img src="https://github.com/muhfauzidk/Flutter-Presensi/blob/main/screenshots/message_presence.png" width="200"><img src="https://github.com/muhfauzidk/Flutter-Presensi/blob/main/screenshots/message_presence1.png" width="200">
+<img src="https://github.com/muhfauzidk/Flutter-PresensiKP/blob/main/screenshots/dashboard_page.png" width="200"><img src="https://github.com/muhfauzidk/Flutter-PresensiKP/blob/main/screenshots/message_presence.png" width="200"><img src="https://github.com/muhfauzidk/Flutter-PresensiKP/blob/main/screenshots/message_presence1.png" width="200">
 
 ### Riwayat Absensi/Presensi
-<img src="https://github.com/muhfauzidk/Flutter-Presensi/blob/main/screenshots/history_presence_page.png" width="200"><img src="https://github.com/muhfauzidk/Flutter-Presensi/blob/main/screenshots/filter_presence_page.png" width="200"><img src="https://github.com/muhfauzidk/Flutter-Presensi/blob/main/screenshots/detail_presence_page.png" width="200">
+<img src="https://github.com/muhfauzidk/Flutter-PresensiKP/blob/main/screenshots/history_presence_page.png" width="200"><img src="https://github.com/muhfauzidk/Flutter-PresensiKP/blob/main/screenshots/filter_presence_page.png" width="200"><img src="https://github.com/muhfauzidk/Flutter-PresensiKP/blob/main/screenshots/detail_presence_page.png" width="200">
 
 ### Profile
-<img src="https://github.com/muhfauzidk/Flutter-Presensi/blob/main/screenshots/profile_page.png" width="200"><img src="https://github.com/muhfauzidk/Flutter-Presensi/blob/main/screenshots/update_profile_page.png" width="200"><img src="https://github.com/muhfauzidk/Flutter-Presensi/blob/main/screenshots/change_pass_page.png" width="200">
+<img src="https://github.com/muhfauzidk/Flutter-PresensiKP/blob/main/screenshots/profile_page.png" width="200"><img src="https://github.com/muhfauzidk/Flutter-PresensiKP/blob/main/screenshots/update_profile_page.png" width="200"><img src="https://github.com/muhfauzidk/Flutter-PresensiKP/blob/main/screenshots/change_pass_page.png" width="200">
